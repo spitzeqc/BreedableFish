@@ -1,0 +1,8 @@
+name: BreedableFish
+version: '${project.version}'
+main: com.floraldelux.breedablefish.BreedableFish
+api-version: 1.19
+prefix: BreedableFish
+authors: [ spitzeqc ]
+description: A simple plugin for breeding fish
+website: floraldelux.com
